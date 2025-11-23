@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact & Support
 
 - Create an issue for bug reports or feature requests
-- Email: your.email@example.com
+- Email: ayushppatil2006@gmail.com
 - Project Link: https://github.com/ayushpatil0810/school-management-system
 
 ## 📸 Screenshots
