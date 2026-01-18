@@ -1,0 +1,20 @@
+{
+  "name": "school-management-system",
+  "version": "1.0.0",
+  "description": "A comprehensive, open-source school management software designed for educational institutions to streamline administrative and academic operations. Built for internal use by school staff including administrators, principals, clerks, and teachers.",
+  "homepage": "https://github.com/ayushpatil0810/school-management-system#readme",
+  "bugs": {
+    "url": "https://github.com/ayushpatil0810/school-management-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushpatil0810/school-management-system.git"
+  },
+  "license": "ISC",
+  "author": "Ayush Patil",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
